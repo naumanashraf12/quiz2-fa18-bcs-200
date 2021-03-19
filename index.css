@@ -1,0 +1,9 @@
+.margin {
+  margin: 10px;
+}
+.span-form {
+  color: red;
+}
+.error{
+    border: 1px solid red;
+}
